@@ -1,0 +1,4 @@
+#Sun Oct 23 13:37:58 BRT 2022
+base.0=/home/eduarda/Projetos-pessoais/seventh_flutter_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
